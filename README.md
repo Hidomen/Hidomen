@@ -2,6 +2,8 @@
 
 - 🌱 I’m currently learning: C++
 - 📫 You can reach me: lhidomenl@gmail.com
+-----------
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hidomen&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <!--
 **Hidomen/Hidomen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
