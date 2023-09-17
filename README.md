@@ -1,7 +1,7 @@
-# :wave: Hi I'm Hidomen
+# :wave: Hello there
 
-- 🌱 I’m currently learning: C++ & PYTHON
-- 📫 You can reach me : lhidomenl@gmail.com
+- 🌱 Currently learning: C++ & PYTHON
+- 📫 : lhidomenl@gmail.com
 -----------
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hidomen&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <!--
