@@ -2,7 +2,6 @@
 
 - 🌱 Currently learning: PYTHON
 - 📫 : lhidomenl@gmail.com
-- You can also reach me via [Instagram](https://www.instagram.com/lhidomen/)
 -----------
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hidomen&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <!--
